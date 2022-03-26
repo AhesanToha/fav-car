@@ -1,0 +1,86 @@
+[
+  {
+    "brand": "Apple ",
+    "price": 130000,
+    "phone_name": "iPhone 13 mini",
+    "id": "apple_iphone_13_mini-11104",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-mini.jpg"
+  },
+  {
+    "brand": "Apple ",
+    "price": 14000,
+    "phone_name": "iPhone 13 Pro",
+    "id": "apple_iphone_13_pro-11102",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro.jpg"
+  },
+  {
+    "brand": "Apple ",
+    "price": 45000,
+    "phone_name": "iPhone 13 Pro Max",
+    "id": "apple_iphone_13_pro_max-11089",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro-max.jpg"
+  },
+  {
+    "brand": "Apple ",
+    "price": 17500,
+    "phone_name": "iPhone 13",
+    "id": "apple_iphone_13-11103",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13.jpg"
+  },
+  {
+    "brand": "Apple ",
+    "price": 86500,
+    "phone_name": "iPhone 12 Pro Max",
+    "id": "apple_iphone_12_pro_max-10237",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro-max-.jpg"
+  },
+  {
+    "brand": "Apple ",
+    "price": 76420,
+    "phone_name": "iPhone 12 Pro",
+    "id": "apple_iphone_12_pro-10508",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro--.jpg"
+  },
+  {
+    "brand": "Apple ",
+    "price": 47500,
+    "phone_name": "iPhone 12",
+    "id": "apple_iphone_12-10509",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12.jpg"
+  },
+  {
+    "brand": "Apple ",
+    "price": 49500,
+    "phone_name": "iPhone 12 mini",
+    "id": "apple_iphone_12_mini-10510",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-mini.jpg"
+  },
+  {
+    "brand": "Apple ",
+    "price": 53000,
+    "phone_name": "iPhone SE (2020)",
+    "id": "apple_iphone_se_(2020)-10170",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-se-2020.jpg"
+  },
+  {
+    "brand": "Apple ",
+    "price": 63000,
+    "phone_name": "iPhone 11 Pro Max",
+    "id": "apple_iphone_11_pro_max-9846",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11-pro.jpg"
+  },
+  {
+    "brand": "Apple ",
+    "price": 48750,
+    "phone_name": "iPhone 11 Pro",
+    "id": "apple_iphone_11_pro-9847",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11-pro-max-.jpg"
+  },
+  {
+    "brand": "Apple ",
+    "price": 36850,
+    "phone_name": "iPhone 11",
+    "id": "apple_iphone_11-9848",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11.jpg"
+  }
+]
