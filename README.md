@@ -1,3 +1,3 @@
 # Fav-Phone
 
-(https://app.netlify.com/sites/chooseyourfabphone/overview)
+click the link to visit the site: (https://chooseyourfabphone.netlify.app/)

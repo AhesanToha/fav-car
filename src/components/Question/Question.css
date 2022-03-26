@@ -1,0 +1,10 @@
+.questions{
+    display: flex;
+}
+.question{
+    margin: 20px;
+    border: 2px solid cyan;
+    padding: 20px;
+
+
+}
