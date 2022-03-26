@@ -28,7 +28,7 @@
 .btn-cart {
   width: 100%;
   height: 45px;
-  background: #ffe0b3;
+  background: #6ae9cd;
   border-radius: 0px 0px 8px 8px;
   border: navajowhite;
   position: absolute;
@@ -36,6 +36,9 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.btn-cart p{
+  margin-right: 5px;
 }
 .btn-cart:hover {
   background-color: orange;

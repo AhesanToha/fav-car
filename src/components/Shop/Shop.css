@@ -8,7 +8,18 @@
     gap: 35px;
     margin: 50px;
 }
-
+.cart-container h2{
+    font-size: 2em;
+    color: rgb(59, 100, 212);
+}
+.btn{
+    background-color: aqua;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+.choose-btn{
+    margin-right: 15px;
+}
 
 @media screen and (max-width:576px){
     .phone-container{
