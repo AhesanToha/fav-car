@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(214, 233, 227);
+}
 .shop-container{
   display: grid;
   grid-template-columns: 4fr 1fr;
