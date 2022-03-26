@@ -13,10 +13,16 @@ const Shop = () => {
       .then((data) => setPhones(data));
   }, []);
 
+  const clearCart = () =>{
+    setCart([])
+  }
+
   const handleAddToCart = (selectedProduct) => {
+
     let newCart = [...cart, selectedProduct];
     setCart(newCart);
   };
+
   return (
     <div className="shop-container">
       <div className="phone-container">
@@ -36,7 +42,7 @@ const Shop = () => {
         <button className="btn choose-btn">
           <p>Choose one for me</p>
         </button>
-        <button className="btn">
+        <button onClick={()=>{clearCart()}} className="btn">
           <p>Choose Again</p>
         </button>
       </div>

@@ -1,3 +1,3 @@
 # Fav-Phone
 
-(https://github.com/facebook/create-react-app)
+(https://app.netlify.com/sites/chooseyourfabphone/overview)

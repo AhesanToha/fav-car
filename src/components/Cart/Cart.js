@@ -3,9 +3,6 @@ import './Cart.css'
 
 
 const Cart = ({  name }) => {
-  
-  console.log(name);
-    
   return (
     <div>
       <h3>{name.phone_name}</h3>
