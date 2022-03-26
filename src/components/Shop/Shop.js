@@ -13,12 +13,12 @@ const Shop = () => {
       .then((data) => setPhones(data));
   }, []);
 
-  const clearCart = () =>{
-    setCart([])
-  }
+  const clearCart = () => {
+    setCart([]);
+  };
 
+  
   const handleAddToCart = (selectedProduct) => {
-
     let newCart = [...cart, selectedProduct];
     setCart(newCart);
   };
@@ -39,10 +39,18 @@ const Shop = () => {
         {cart.map((name) => (
           <Cart name={name} key={name.id}></Cart>
         ))}
-        <button className="btn choose-btn">
+        <button
+          
+          className="btn choose-btn"
+        >
           <p>Choose one for me</p>
         </button>
-        <button onClick={()=>{clearCart()}} className="btn">
+        <button
+          onClick={() => {
+            clearCart();
+          }}
+          className="btn"
+        >
           <p>Choose Again</p>
         </button>
       </div>
