@@ -1,0 +1,11 @@
+.header-name{
+    text-align: center;
+    line-height: 20px;
+    color: rgb(13, 99, 99);
+}
+.header-name h1{
+    font-size: 3em;
+}
+.header-name h2{
+    font-size: 2em;
+}

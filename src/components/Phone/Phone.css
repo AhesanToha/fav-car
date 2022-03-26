@@ -1,0 +1,24 @@
+.phone {
+    width: 280px;
+    height: 500px;
+    border: 1px solid #95a0a7;
+    border-radius: 8px;
+    position: relative;
+  }
+  
+  .phone img {
+    width: 270px;
+    border-radius: 8px;
+    margin: 7px;
+  }
+  .product-name {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 21px;
+    margin-top: 7px;
+    padding-bottom: 16px;
+  }
+
+
